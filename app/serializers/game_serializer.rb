@@ -1,5 +1,4 @@
-  
-class GameSerializer
+  class GameSerializer
     include FastJsonapi::ObjectSerializer
-    attributes :score
+    attributes :winner
   end

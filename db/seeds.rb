@@ -7,4 +7,8 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 Game.create(winner: "ian")
-Player.create(name: "ian", color: "blue", game_id: 1)
+Game.create(winner: "ian")
+Game.create(winner: "ian")
+Game.create(winner: "austin")
+Game.create(winner: "ian")
+Game.create(winner: "keek")
