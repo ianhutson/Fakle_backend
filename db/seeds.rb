@@ -7,4 +7,4 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 
 7.times {Game.create(winner: "ian")}
-9.times {Game.create(winner: "lauren")}
+10.times {Game.create(winner: "lauren")}
